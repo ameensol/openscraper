@@ -1,0 +1,4 @@
+openscraper
+===========
+
+Opensecrets scraper repository
