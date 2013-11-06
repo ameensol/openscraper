@@ -1,0 +1,13 @@
+{
+  "name": "openscraper",
+  "version": "0.0.0",
+  "description": "opensecrets scraper repo",
+  "keywords": [],
+  "author": "Ameen Soleimani (https://github.com/ameensol)",
+  "license": "MIT",
+  "dependencies": {
+    "request": "*",
+    "cheerio": "*",
+    "async": "*"
+  }
+}
